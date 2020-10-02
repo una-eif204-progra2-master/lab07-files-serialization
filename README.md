@@ -2,6 +2,8 @@
 
 The idea of this laboratory is create two small apps:
 
+![app-design](app-design.jpg)
+
 ## App 1
 
 - We have a *Person* entity with the following properties:
